@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "wzy950618@gmail.com",
+    "longName": "Hello",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Hello",
+    "uuid": "2dabf7a6-467b-4471-9e8d-a203fdea873c",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
